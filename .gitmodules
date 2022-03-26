@@ -189,6 +189,9 @@
 [submodule "pkg/msmtp/src"]
 	path = pkg/msmtp/src
 	url = https://github.com/marlam/msmtp-mirror
+[submodule "pkg/mpop/src"]
+	path = pkg/mpop/src
+	url = https://github.com/marlam/mpop-mirror
 [submodule "pkg/mtdev/src"]
 	path = pkg/mtdev/src
 	url = http://bitmath.org/git/mtdev.git
